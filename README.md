@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Sam Thorley
-- 🌱 I’m currently studying Bachelor of Engineering (Software) / Bachelor of Science (Bioinformatics)
-- 📫 You can reach me at samuel.thorley2000@gmail.com
+- Hi, I’m Sam Thorley
+- I’m currently studying Bachelor of Engineering (Software) / Bachelor of Science (Bioinformatics)
+- You can reach me at samuel.thorley2000@gmail.com
+- University projects and assignments completed can be found under my repositories
 
 <!---
 samman375/samman375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
