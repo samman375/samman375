@@ -1,7 +1,7 @@
 - Hi, I’m Sam Thorley
 - I’m currently studying Bachelor of Engineering (Software) / Bachelor of Science (Bioinformatics) at UNSW
 - You can reach me at samuel.thorley2000@gmail.com
-- My university projects and assignments completed can be found under my repositories
+- Some of my university projects and assignments completed can be found under my repositories
 - In the README.md files of each repository you will find:
   - When the project was completed and for what subject
   - Focus of the project
