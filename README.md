@@ -5,8 +5,8 @@
 - In the README.md files of each repository you will find:
   - When the project was completed and for what subject
   - Focus of the project
-  - Where to find the specification (usally in SPEC.md)
-  - How to run the project if available
+  - Where to find the project specification (usally in SPEC.md)
+  - How to run the project if available (some cannot be run outside of UNSW CSE servers)
   - Mark awarded for the project
 
 <!---
