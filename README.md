@@ -3,7 +3,7 @@
 - I also work as a part-time Engineering Intern at Daisee
 - You can reach me at samuel.thorley2000@gmail.com
 - Some of my university projects and assignments can be found under my repositories
-- Repositories are stored in a branch named 'final' to avoid web crawlers
+- Repositories are stored in a branch named 'final' instead of 'main' to avoid web crawlers
 - In the README.md files of each repository you will find:
   - When the project was completed and for what subject
   - Focus of the project
