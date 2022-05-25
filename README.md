@@ -1,7 +1,7 @@
 - Hi, I’m Sam Thorley
 - I’m currently studying Bachelor of Engineering (Software) / Bachelor of Science (Bioinformatics) at UNSW
 - I also work as a part-time Engineering Intern at Daisee
-- You can reach me at samuel.thorley2000@gmail.com
+- You can reach me at samman375@protonmail.com
 - Some of my university projects and assignments can be found under my repositories
 - Repositories are stored in a branch named 'final' instead of 'main' to avoid web crawlers
 - In the README.md files of each repository you will find:
