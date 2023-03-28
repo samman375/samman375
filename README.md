@@ -13,6 +13,8 @@
         <img height="230rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samman375&theme=merko&exclude_repo=textbooks-and-slides&hide=html,tex&langs_count=10&layout=compact" />
     </a>
 </div>
+    
+<p>*Note: PRs, issues, and contribution statistics only reflect public repositories.</p>
 
 <!---
 samman375/samman375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
