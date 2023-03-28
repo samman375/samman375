@@ -1,10 +1,10 @@
 <h3 align="center">Hi, I’m Sam Thorley :alien:<h3>
 
 <ul>
-<li>I’m currently studying Bachelor of Engineering (Software) / Bachelor of Science (Bioinformatics) at UNSW, graduating end of 2023</li>
-<li>I also work as a part-time Engineering Intern at Daisee</li>
+<li>I’m currently studying Bachelor of Engineering (Honours) / Bachelor of Science at UNSW, majoring in Software Engineering and Bioinformatics, graduating end of 2023</li>
+<li>I also work as a part-time Engineering Intern at daisee</li>
 <li>You can reach me at <a href=samman375@protonmail.com>samman375@protonmail.com</a></li>
-<li>Some of my university projects and assignments can be found under my repositories</li>
+<li>My public contributions including some of my university projects and assignments can be found under my repositories</li>
 </ul>
 
 <div align="center">
