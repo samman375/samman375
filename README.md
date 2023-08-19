@@ -2,7 +2,7 @@
 
 <ul>
 <li>I’m currently studying Bachelor of Engineering (Honours) / Bachelor of Science at UNSW, majoring in Software Engineering and Bioinformatics, graduating end of 2023</li>
-<li>I also work as a part-time Engineering Intern at daisee</li>
+<li>I also work as a part-time Associate Engineer at daisee</li>
 <li>You can reach me at <a href=samman375@protonmail.com>samman375@protonmail.com</a></li>
 <li>My public contributions including some of my university projects and assignments can be found under my repositories</li>
 </ul>
