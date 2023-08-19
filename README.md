@@ -14,7 +14,7 @@
     </a>
 </div>
     
-<p>*Note: PRs, issues, and contribution statistics only reflect public repositories.</p>
+<p>*Note: GitHub statistics only reflect public repositories.</p>
 
 <!---
 samman375/samman375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
