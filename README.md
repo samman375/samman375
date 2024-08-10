@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I’m Sam Thorley :alien:<h3>
 
 <ul>
-<li>I’m currently studying Bachelor of Engineering (Honours) / Bachelor of Science at UNSW, majoring in Software Engineering and Bioinformatics, graduating end of 2023</li>
-<li>I also work as a part-time Associate Engineer at daisee</li>
+<li>I’m graduated in 2023 with a degree in Bachelor of Engineering (Honours) / Bachelor of Science at UNSW, majoring in Software Engineering and Bioinformatics.</li>
+<li>I currently work as a Software Engineer at an Australian bank.</li>
 <li>You can reach me at <a href=samman375@protonmail.com>samman375@protonmail.com</a></li>
 <li>My public contributions including some of my university projects and assignments can be found under my repositories</li>
 </ul>
